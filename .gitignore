@@ -1,1 +1,3 @@
-"# SCIKIT-Trainer gitignore" 
+"# SCIKIT-Trainer gitignore"
+/venv/*
+/.idea/*
